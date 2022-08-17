@@ -1,0 +1,6 @@
+.idea/*
+report/screen/*
+report/*.html
+report/*.avi
+target/*
+debug.log
